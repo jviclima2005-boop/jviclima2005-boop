@@ -12,8 +12,7 @@ Aqui você vai encontrar:
 
 - projetos de estudo e prática
 - repositórios voltados para **HTML** e front-end
-- minha evolução em **Python**
-- experimentos e aprendizado em **automação**
+- minha evolução em **Java**
 - uma base em construção, mas cada vez mais organizada
 
 ---
@@ -24,7 +23,7 @@ Atualmente estou concentrado em:
 
 - desenvolvimento **Front-End**
 - prática com **HTML** e estruturação de interfaces
-- evolução em **Python**
+- evolução em **Java**
 - automação de tarefas e lógica de programação
 - melhoria da organização dos meus repositórios
 
@@ -34,7 +33,7 @@ Atualmente estou concentrado em:
 
 ![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 ![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=FFFFFF)
 
@@ -61,7 +60,7 @@ Repositório de estudo com foco em fundamentos de HTML.
 No momento, estou desenvolvendo:
 
 - mais consistência em projetos front-end
-- base mais sólida em Python
+- base mais sólida em Java
 - melhores READMEs e documentação
 - organização de portfólio no GitHub
 - evolução técnica por meio de prática contínua
