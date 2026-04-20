@@ -1,6 +1,6 @@
 # Victor Omena 👋
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na faculdade Nova Roma e uso este GitHub para registrar minha evolução com projetos práticos, estudos e experimentos voltados para **Front-End, Python e automação**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na faculdade Nova Roma e uso este GitHub para registrar minha evolução com projetos práticos, estudos e experimentos voltados para **Front-End e Java**.
 
 Estou construindo meu portfólio com foco em organização, constância e aprendizado aplicado.
 
