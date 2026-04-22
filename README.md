@@ -53,6 +53,9 @@ Projeto que contribui para minha evolução em interface e apresentação de lay
 ### TagHTML
 Repositório de estudo com foco em fundamentos de HTML.
 
+### calculadora-imc-java
+Projeto em Java que realiza o cálculo do IMC com classificação automática, utilizando estruturas condicionais e entrada de dados.
+
 ---
 
 ## Em aprendizado
