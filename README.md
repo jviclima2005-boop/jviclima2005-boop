@@ -44,9 +44,6 @@ Atualmente estou concentrado em:
 ### INSTITUTO-KYARA
 Projeto em HTML com foco em estrutura, organização e prática de interface.
 
-### fourze
-Projeto voltado para construção visual e desenvolvimento de páginas.
-
 ### Social-
 Projeto que contribui para minha evolução em interface e apresentação de layout.
 
